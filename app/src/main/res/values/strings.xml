@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Biometric Scanner</string>
+    <string name="access_app_name">Access Biometric Scanner</string>
+    <string name="back">Back</string>
+    <string name="app_lock_msg">When app is minized for %1$s minute it will be locked. When you open again it will prompt you with lock screen</string>
+    <string name="system_lock_is_deactive">System lock is deactive</string>
+</resources>
