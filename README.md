@@ -1,3 +1,4 @@
+![](splash-lock-gif.gif)
 # BiometricScannerDemo
 This demo application is created for system app lock.<br><br>
 Some applications uses system lock if you activate it.<br><br>
